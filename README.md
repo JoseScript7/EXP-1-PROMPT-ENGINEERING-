@@ -1,4 +1,4 @@
-# EXP-1-PROMPT-ENGINEERING-
+# EXP-1-PROMPT-ENGINEERING
 
 ## Aim: 
 Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
@@ -32,7 +32,7 @@ Step 6: Exported the final .tex file and prepared it for compilation into a two-
 https://github.com/JoseScript7/EXP-1-PROMPT-ENGINEERING-/blob/main/Generative_AI_Report.pdf 
 
 
-## Result (2 Lines)
+## Result 
 
 The experiment successfully generated an IEEE-style two-column research report on Generative AI and LLMs.
 
